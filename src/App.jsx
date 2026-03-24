@@ -19,7 +19,7 @@ const C = {
 };
 
 // ── Unsplash images — Cesena / Italian historic architecture ─────────────────
-const HERO_1 = "/hero1.jpg";
+const HERO_1 = "/hero_1.jpg";
 const HERO_2    = "https://images.unsplash.com/photo-1555881400-74d7acaacd8b?w=1400&q=80";
 const ROOMS = [
   "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&q=75",
@@ -180,7 +180,7 @@ function Hero() {
     position: "absolute", inset: 0,
     width: "100%", height: "100%",
     objectFit: "cover", objectPosition: "center",
-    opacity: slide === i ? 0.60 : 0,
+    opacity: slide === i ? 0.90 : 0,
     transition: "opacity 1.5s ease",
     pointerEvents: "none",
   }} />
