@@ -20,7 +20,7 @@ const C = {
 
 // ── Unsplash images — Cesena / Italian historic architecture ─────────────────
 const HERO_1 = "/hero_1.jpg";
-const HERO_2    = "https://images.unsplash.com/photo-1555881400-74d7acaacd8b?w=1400&q=80";
+const HERO_2    = "/hero_2.jpg";
 const ROOMS = [
   "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&q=75",
   "https://images.unsplash.com/photo-1560448204-603b3fc33ddc?w=800&q=75",
