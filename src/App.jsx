@@ -180,7 +180,7 @@ function Hero() {
           position: "absolute", inset: 0,
           backgroundImage: `url(${src})`,
           backgroundSize: "cover", backgroundPosition: "center",
-          opacity: slide === i ? 0.18 : 0,
+          opacity: slide === i ? 0.60 : 0,
           transition: "opacity 1.5s ease",
         }} />
       ))}
