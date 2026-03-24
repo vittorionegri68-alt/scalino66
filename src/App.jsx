@@ -176,14 +176,15 @@ function Hero() {
   return (
     <section style={{ position: "relative", minHeight: "100vh", overflow: "hidden", background: C.bg }}>
       {slides.map((src, i) => (
-        <div key={i} style={{
-          position: "absolute", inset: 0,
-          backgroundImage: `url(${src})`,
-          backgroundSize: "cover", backgroundPosition: "center",
-          opacity: slide === i ? 0.60 : 0,
-          transition: "opacity 1.5s ease",
-        }} />
-      ))}
+  <img key={i} src={src} alt="" style={{
+    position: "absolute", inset: 0,
+    width: "100%", height: "100%",
+    objectFit: "cover", objectPosition: "center",
+    opacity: slide === i ? 0.60 : 0,
+    transition: "opacity 1.5s ease",
+    pointerEvents: "none",
+  }} />
+))}
       <div style={{ position: "absolute", inset: 0, background: `linear-gradient(160deg, ${C.bg} 35%, rgba(253,246,227,0.7) 100%)`, pointerEvents: "none" }} />
 
       <div style={{ position: "absolute", top: 40, right: 40, width: 200, height: 200, border: `1px solid rgba(107,45,45,0.12)`, transform: "rotate(15deg)", pointerEvents: "none" }} />
