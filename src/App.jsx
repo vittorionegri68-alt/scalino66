@@ -185,7 +185,7 @@ function Hero() {
     pointerEvents: "none",
   }} />
 ))}
-      <div style={{ position: "absolute", inset: 0, background: `linear-gradient(160deg, rgba(253,246,227,0.75) 0%, rgba(253,246,227,0.3) 100%)`, pointerEvents: "none" }} />
+      <div style={{ position: "absolute", inset: 0, background: `linear-gradient(160deg, ${C.bg} 15%, rgba(253,246,227,0.7) 100%)`, pointerEvents: "none" }} />
 
       <div style={{ position: "absolute", top: 40, right: 40, width: 200, height: 200, border: `1px solid rgba(107,45,45,0.12)`, transform: "rotate(15deg)", pointerEvents: "none" }} />
       <div style={{ position: "absolute", top: 60, right: 60, width: 150, height: 150, border: `1px solid rgba(217,160,102,0.18)`, transform: "rotate(15deg)", pointerEvents: "none" }} />
