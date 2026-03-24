@@ -1,0 +1,5 @@
+# robots.txt — Scalino 66
+User-agent: *
+Allow: /
+
+Sitemap: https://scalino66.vercel.app/sitemap.xml
