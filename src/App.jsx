@@ -27,7 +27,7 @@ const ROOMS = [
   "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM4ODk2MDUzNTIyNTQ2MjYwMg==/original/57626a5f-4072-43f0-984a-ddf59ca5d570.jpeg?im_w=960",
   "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM4ODk2MDUzNTIyNTQ2MjYwMg==/original/0569444b-9859-48af-a7f2-227711a73904.jpeg?im_w=960",
   "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM4ODk2MDUzNTIyNTQ2MjYwMg==/original/b4934979-5e42-4099-929a-9f42620e348e.jpeg?im_w=960",
-  https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM4ODk2MDUzNTIyNTQ2MjYwMg==/original/7f31d4e3-471e-48a6-8a5d-7fba5dbbf07b.jpeg?im_w=960",
+  "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM4ODk2MDUzNTIyNTQ2MjYwMg==/original/7f31d4e3-471e-48a6-8a5d-7fba5dbbf07b.jpeg?im_w=960",
 ];
 const LIFESTYLE = [
   "https://images.unsplash.com/photo-1718024111530-b88cc1c9f108?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
