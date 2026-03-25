@@ -19,21 +19,21 @@ const C = {
 };
 
 // ── Unsplash images — Cesena / Italian historic architecture ─────────────────
-const HERO_1 = "/hero_1.jpg";
-const HERO_2    = "/hero_2.jpg";
+const HERO_1 = "https://images.unsplash.com/photo-1576177161161-ffe6045cf18f?q=80&w=1286&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D;
+const HERO_2    = "https://images.unsplash.com/photo-1579964571850-bb2fe26751e9?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D";
 const ROOMS = [
-  "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&q=75",
-  "https://images.unsplash.com/photo-1560448204-603b3fc33ddc?w=800&q=75",
-  "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=75",
-  "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?w=800&q=75",
-  "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=800&q=75",
-  "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=800&q=75",
+  "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM4ODk2MDUzNTIyNTQ2MjYwMg==/original/2bef580f-503b-44bb-a800-487b7849a22b.jpeg?im_w=960",
+  "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM4ODk2MDUzNTIyNTQ2MjYwMg==/original/5ced6658-f0d4-45da-ad3b-c62ba47a4122.jpeg?im_w=960",
+  "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM4ODk2MDUzNTIyNTQ2MjYwMg==/original/57626a5f-4072-43f0-984a-ddf59ca5d570.jpeg?im_w=960",
+  "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM4ODk2MDUzNTIyNTQ2MjYwMg==/original/0569444b-9859-48af-a7f2-227711a73904.jpeg?im_w=960",
+  "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM4ODk2MDUzNTIyNTQ2MjYwMg==/original/b4934979-5e42-4099-929a-9f42620e348e.jpeg?im_w=960",
+  https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM4ODk2MDUzNTIyNTQ2MjYwMg==/original/7f31d4e3-471e-48a6-8a5d-7fba5dbbf07b.jpeg?im_w=960",
 ];
 const LIFESTYLE = [
-  "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=800&q=75",
-  "https://images.unsplash.com/photo-1523531294919-4bcd7c65e216?w=800&q=75",
-  "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800&q=75",
-  "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&q=75",
+  "https://images.unsplash.com/photo-1718024111530-b88cc1c9f108?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "https://images.unsplash.com/photo-1641948959576-83140a43f22b?q=80&w=1063&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "https://images.unsplash.com/photo-1628885823157-4f79371af81a?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "https://plus.unsplash.com/premium_photo-1676496046182-356a6a0ed002?q=80&w=1176&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 ];
 
 // ── Scroll reveal ─────────────────────────────────────────────────────────────
