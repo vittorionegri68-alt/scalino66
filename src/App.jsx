@@ -20,7 +20,7 @@ const C = {
 
 // ── Unsplash images — Cesena / Italian historic architecture ─────────────────
 const HERO_1 = "https://images.unsplash.com/photo-1576177161161-ffe6045cf18f?q=80&w=1286&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D;
-const HERO_2    = "https://images.unsplash.com/photo-1579964571850-bb2fe26751e9?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D";
+const HERO_2 = "https://images.unsplash.com/photo-1579964571850-bb2fe26751e9?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D";
 const ROOMS = [
   "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM4ODk2MDUzNTIyNTQ2MjYwMg==/original/2bef580f-503b-44bb-a800-487b7849a22b.jpeg?im_w=960",
   "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM4ODk2MDUzNTIyNTQ2MjYwMg==/original/5ced6658-f0d4-45da-ad3b-c62ba47a4122.jpeg?im_w=960",
